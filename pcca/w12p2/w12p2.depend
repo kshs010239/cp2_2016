@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463842169 source:c:\users\root\desktop\c test\brainfuck\w12p2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456767387 source:c:\users\root\desktop\c test\w2p2\0416092-2-b.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
